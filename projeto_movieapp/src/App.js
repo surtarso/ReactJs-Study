@@ -45,7 +45,7 @@ const App = () => {
           onKeyDown={checkForEnter} //adiciona check com ENTER
         />
         <img /* search icon */
-          src={SearchIcon}
+          src={SearchIcon} //NOT LOADING ON SERVER, missing /ppbse/
           alt="search PirateBay"
           onClick={() => searchMovies(searchTerm)}
         />
