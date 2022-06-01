@@ -1,13 +1,10 @@
 # Snake Game with ReactJS
+<img src="screenshot.png" alt="game screnshot" width="400"/>
 
-This project was bootstrapped with Create React App
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm i`
-### `npm start`
+### How to run
+- Clone repository or download .zip
+- `npm i`
+- `npm start`
 
 ## TO DO:
 - ~Clean start-react-app non-sense~
