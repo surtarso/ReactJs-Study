@@ -43,6 +43,7 @@ class App extends Component {
   }
 
   //game keys
+  //TODO: if press too fast it will still eat itself as a bug
   onKeyDown = (e) => {
     e = e || window.event;
     switch (e.keyCode) {
