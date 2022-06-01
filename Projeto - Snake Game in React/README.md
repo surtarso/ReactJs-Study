@@ -1,5 +1,6 @@
 # Snake Game with ReactJS
-![game screenshot](screenshot.png)
+<img src="screenshot.png" alt="game screnshot" width="400"/>
+
 ### How to run
 - Clone repository or download .zip
 - `npm i`
