@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import MovieCard from "./MovieCard";
-import SearchIcon from "./pirate.svg";
+// import SearchIcon from "./pirate.svg";
 import "./App.css";
 
 const API_URL = "http://www.omdbapi.com?apikey=b6003d8a";
@@ -45,7 +45,7 @@ const App = () => {
           onKeyDown={checkForEnter} //adiciona check com ENTER
         />
         <img /* search icon */
-          src={SearchIcon} //NOT LOADING ON SERVER, missing /ppbse/
+          src='https://raw.githubusercontent.com/surtarso/ReactJS-Projects/main/Projeto%20-%20Movie%20Torrent%20App/src/pirate.svg' //{SearchIcon} //NOT LOADING ON SERVER, missing /ppbse/
           alt="search PirateBay"
           onClick={() => searchMovies(searchTerm)}
         />
