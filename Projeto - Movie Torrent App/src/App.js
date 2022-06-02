@@ -34,8 +34,8 @@ const App = () => {
   return (
     <div className="app">
       {/* HEADER */}
-      <h1>PPBSE</h1>
-      <h2>Pretty PirateBay Search Engine</h2>
+      <h1>&#9760; YAARRRR &#9760;</h1>
+      <h2>Yet Another Await-Return Responsive React Root</h2>
 
       <div className="search"> {/*search field*/}
         <input

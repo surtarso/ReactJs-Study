@@ -3,7 +3,7 @@ import React from 'react';
 const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
 
   //placeholder poster when not found (w/ custom color and text)
-  const IMG_NOTFOUND = "https://via.placeholder.com/310x416/000000/FFFFFF/?text=NO+POSTER+FOUND";
+  const IMG_NOTFOUND = "https://via.placeholder.com/248x368/000000/00FFFF/?text=NO+POSTER+FOUND";
 
   //target URL on poster and button clicks
   const TARGET_URL = "https://thepiratebay.org/search.php?q=";
