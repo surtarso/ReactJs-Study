@@ -1,6 +1,7 @@
 import React from "react";
 import useGithub from "../../hooks/github-hooks";
 import * as S from "./styled";
+// import Graphs from "../graphs";
 
 const Profile = () => {
   const { githubState } = useGithub();
