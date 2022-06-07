@@ -1,4 +1,4 @@
-# ReactJS-Projects
+# <img src="ico.png" width=30 height=30> ReactJS-Projects
 Here lies my ReactJS studies and projects
 
 ## Quick Links:
