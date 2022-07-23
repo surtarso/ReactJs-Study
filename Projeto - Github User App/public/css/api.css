@@ -1,11 +1,11 @@
-@import url(//fonts.googleapis.com/css?family=Oswald:400);
+
 * {
     margin: 0;
     padding: 0;
 }
 body {
     background: transparent;
-    font-family: "Oswald", "Helvetica Newe", Helvetica, sans-serif;
+    font-family: "Helvetica Newe", Helvetica, sans-serif;
 }
 
 .chart {
