@@ -1,5 +1,5 @@
 # Snake Game with ReactJS
-<img src="screenshot.png" alt="game screnshot" width="400"/>
+<img src="screenshot.png" alt="game screnshot" width='50%'/>
 
 ### How to run
 - Clone repository or download .zip
